@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hello, I'm [Pierre Albert ( Parham Ghayour by Birth)] 👋
+# Hello, I'm Pierre Albert (Parham Ghayour by Birth) 
 
-Welcome to my academic website.  
+Welcome to my academic and professional website.  
 - 🎓 Background in Quantum Machine Learning, Ethics of AI, Philosophy, Fundamentals of Quantum Mechanics 
 - 📄 [Link to CV](CV.pdf)  
 - 📬 Contact: monsieur.parham.ghayour@gmail.com
